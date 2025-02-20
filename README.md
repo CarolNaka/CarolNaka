@@ -13,13 +13,13 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center">Languages and Toolss</h1>
+    <img align="center" height="40" width="40" alt="windows"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+    <img align="center" height="40" width="40" alt="linux"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" height="40" width="40" alt="python"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" height="40" width="40" alt="jupyter"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
     <img align="center" height="40" width="40" alt="sql"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg">
     <img align="center" height="40" width="40" alt="vscode" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img align="center" height="40" width="40" alt="linux"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img align="center" height="40" width="40" alt="git" src<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" height="40" width="40" alt="windows"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
     <img align="center" height="40" width="40" alt="html"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img align="center" height="40" width="40" alt="css"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 
