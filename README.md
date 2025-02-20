@@ -35,8 +35,8 @@
 <br>
   <h1 align="center">Social Media</h1>
   <a href="https://www.linkedin.com/in/carolina-nakasuka/" target="_blank"><img align="center" height="40" width="40" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> 
+  <a href="mailto:carolnakasuka@gmail.com" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
   <a href="https://www.instagram.com/carolnakasuka/" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg"> 
-  <a href="mailto:carolnakasuka@gmail.com" target="_blank"><img align="center" height="40" width="40" alt="instagram" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"> 
 </div>
     
 <br>
