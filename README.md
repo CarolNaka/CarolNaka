@@ -43,7 +43,7 @@ Atualmente, trabalho com pipelines de dados, análise de logs e acompanhamento d
 ### Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carolina-nakasuka/" target="_blank">
+  <a href="https://https://www.linkedin.com/in/carolnakasuka/" target="_blank">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
   &nbsp;&nbsp;&nbsp;
