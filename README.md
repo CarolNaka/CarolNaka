@@ -43,17 +43,13 @@ Atualmente, trabalho com pipelines de dados, análise de logs e acompanhamento d
 ### Contato
 
 <p align="center">
-  <a href="https://https://www.linkedin.com/in/carolnakasuka/" target="_blank">
+  <a href="https://www.linkedin.com/in/carolnakasuka/" target="_blank">
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:carolnakasuka@gmail.com">
     <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/carolnakasuka/" target="_blank">
-    <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg">
-  </a>
+  </a>  
 </p>
 
 <br>
