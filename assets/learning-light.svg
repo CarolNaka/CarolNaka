@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="100" viewBox="0 0 900 100" role="img" aria-labelledby="t">
+<title id="t">learning by doing: 99%. Os últimos 1% nunca chegam, e tá tudo bem.</title>
+<defs>
+<linearGradient id="fill" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0969da"/><stop offset="1" stop-color="#1a7f37"/></linearGradient>
+</defs>
+<text x="190" y="34" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#1f2328">learning by doing</text>
+<text x="710" y="34" text-anchor="end" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#0969da">99%<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.85;1" begin="0s" dur="2.7s" fill="freeze"/></text>
+<rect x="190" y="46" width="520" height="8" rx="4" fill="#d8dee4"/>
+<rect x="190" y="46" width="515" height="8" rx="4" fill="url(#fill)"><animate attributeName="width" values="0;0;515" keyTimes="0;0.12;1" begin="0s" dur="2.5s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.2 0.8 0.2 1"/></rect>
+<text x="190" y="82" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#59636e">-- os últimos 1% nunca chegam. e tá tudo bem.<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.84;1" begin="0s" dur="3.1s" fill="freeze"/></text>
+</svg>
